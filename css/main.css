@@ -63,5 +63,70 @@
 /* -- TYPOGRAPHY -- */ 
 
 
+/*--------------------------------------------------------------
+5.0 - OBJECTS 
+-------------------------------------------------------------- */
+
+/* -- FRAMEWORK -- */ 
+
+.wrapper {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.row {
+	overflow: auto;
+}
+
+/*--------------------------------------------------------------
+6.0 - COMPONENTS 
+-------------------------------------------------------------- */
+
+
+/* -- HEADERS -- */ 
+
+#logo {
+	width: 500px;
+	margin-top: 30px;
+	
+}
+
+#logo {
+	float: left;
+}
+
+/* -- NAV -- */ 
+nav {
+    width: 500px;
+}
+
+
+nav li {
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+
+nav {
+    float: right;
+    margin-top: 30px;
+}
+
+/* -- Color -- */ 
+
+#bg-dark-green {
+	background-color: #10443f;
+}
+
+#nav, #bg-dark-green {
+	color: #fff;
+}
+
+
+/* -- BUTTONS -- */ 
+
+
+
 
 
